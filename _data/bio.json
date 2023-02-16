@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Jourdan",
+    "label": "Student",
+    "picture": "https://github.com/jhung-mililani.png",
+    "email": "s216-jourdan.hung@k12.hi.us",
+    "phone": "",
+    "website": "https://jhung-mililani.github.io",
+    "summary": "I am studying Computer Science at Mililani High School. I expect to graduate in 2024.",
+    "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jhung-mililani", "url": "http://github.com/jhung-mililani" },
+      { "network": "instagram", "username": "jourdan.hung", "url": "http://instagram.com/jourdan.hung/" }
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Language Models" },
+    { "name": "Web Development" },
+    { "name": "Quantum Analog Computing" },
+    { "name": "Full-Stack Engineering" },
+    { "name": "Attack Surface Reduction" },
+    { "name": "3D Game Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Python", "HTML", "CSS", "Node.js", "Django REST Framework", "PostgreSQL", "FastAPI"]
+    },
+    {
+      "name": "Toolsets/OSes",
+      "keywords": [ "MacOS", "Ubuntu", "Kali Linux", "Debian", "Windows", "Windows Server", "Cisco IOS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mililani High School, Mililani, HI",
+      "area": "General Education (expected Spring 2024)",
+      "studyType": "Diploma",
+      "startDate": "2020-08-14",
+      "endDate": "Present",
+      "courses": [
+        "AP Computer Science Principles", 
+        "Networking I", 
+        "Cybersecurity"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Notion",
+      "position": "Data Scientist, ML Evaluation and Autonomy",
+      "website": "https://www.notion.so/product/ai",
+      "startDate": "2022-12-19",
+      "endDate": "2023-01-27",
+      "summary": "",
+      "highlights": [
+        "Oversee hyperparameters and adjust model as necessary",
+        "Introduce guardrails for prompt engineering"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Hawaii Annual Code Challenge 2022",
+      "website": "https://hacc-2022.devpost.com/project-gallery",
+      "position": "Full-Stack Engineer",
+      "startDate": "2022-10-15",
+      "endDate": "2022-10-31",
+      "summary": "FastAPI and Pandas developer for data visualization project",
+      "highlights": [
+        "Design UI/UX for mobile use",
+        "Maintain efficient use of API, and improve optimization"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "A+ Scholarship",
+      "date": "2020-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to rising juniors who are in the process of completing a rigorous high school curriculum with a minimum overall GPA of 4.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
